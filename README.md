@@ -1,4 +1,4 @@
-# SQL // PT - BR
+# SQL // PT - 🇧🇷
 Repositório com alguns dos meus trabalhos em SQL.
 
 # SQL // US - EN
